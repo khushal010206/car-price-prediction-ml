@@ -107,5 +107,5 @@ Open `car_price_predict_pynb.ipynb` using Jupyter Notebook, VS Code, or Google C
 
 ## Author
 
-**Khushal Suthar**
+**Khushal Kumar**
 
